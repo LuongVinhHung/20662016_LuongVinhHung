@@ -138,27 +138,27 @@
                                     <div class="card-body card-block">
                                         <form role="form" method="POST" action="">
                                             <div class="form-group">
-                                                <label for="title" class="form-control-label">Tocpic</label>
+                                                <label for="title" class="form-control-label">Chủ đề</label>
                                                 <input type="text" id="title" name="topic" placeholder="Enter Tocpic" class="form-control">
                                             </div>
                                             <div class="form-group">
-                                                <label for="meta_title" class="form-control-label">Name Tocpic</label>
+                                                <label for="meta_title" class="form-control-label">Tên</label>
                                                 <input type="text" id="meta_title" name="nametopic" placeholder="Enter Name Tocpic" class="form-control">
                                             </div>
                                             <div class="form-group">
-                                                <label for="path" class="form-control-label">Message</label>
+                                                <label for="path" class="form-control-label">Nội dung</label>
                                                 <input type="text" id="path" name="message" placeholder="Enter Message" class="form-control">
                                             </div>
                                             <div class="form-group">
-                                                <label for="path" class="form-control-label">Name</label>
+                                                <label for="path" class="form-control-label">Người dùng</label>
                                                 <input type="text" id="path" name="name" placeholder="Enter Name" class="form-control">
                                             </div>
                                             <div class="form-group">
-                                                <label for="path" class="form-control-label">DaTe</label>
+                                                <label for="path" class="form-control-label">Ngày</label>
                                                 <input type="DaTe" id="path" name="d_date_created" placeholder="Enter DaTe" class="form-control">
                                             </div>
                                                <div class="form-group">
-                                                <label for="path" class="form-control-label">image</label>
+                                                <label for="path" class="form-control-label">Hình</label>
                                                 <input type="file" id="path" name="image" placeholder="Enter image" class="form-control">
                                             </div>
 
@@ -177,11 +177,11 @@
                                         <thead>
                                             <tr>
                                                 <th>ID</th>
-                                                <th>Tocpic</th>
-                                                <th>Name Tocpic</th>
-                                                <th>Message</th>
-                                                <th>Name</th>
-                                                <th>Date</th>
+                                                <th>Chủ đề</th>
+                                                <th>Tên</th>
+                                                <th>Nội dung</th>
+                                                <th>Người dùng</th>
+                                                <th>Ngày</th>
 
                                             </tr>
                                         </thead>
@@ -242,23 +242,23 @@
                             </div>
                             <div class="modal-body">
                                 <div class="form-group">
-                                    <label for="title" class="form-control-label">Title</label>
+                                    <label for="title" class="form-control-label">Chủ đề</label>
                                     <input type="text" id="title" name="topic" placeholder="Enter title" class="form-control" value="<?php echo $rows['topic']; ?>">
                                 </div>
                                 <div class="form-group">
-                                    <label for="meta_title" class="form-control-label">Meta Title</label>
+                                    <label for="meta_title" class="form-control-label">Tên</label>
                                     <input type="text" id="meta_title" name="nametopic" placeholder="Enter meta title" class="form-control" value="<?php echo $rows['nametopic']; ?>">
                                 </div>
                                 <div class="form-group">
-                                    <label for="path" class="form-control-label">Path</label>
+                                    <label for="path" class="form-control-label">Nội dung</label>
                                     <input type="text" id="path" name="message" placeholder="Enter path" class="form-control" value="<?php echo $rows['message']; ?>">
                                 </div>
                                  <div class="form-group">
-                                    <label for="path" class="form-control-label">Path</label>
+                                    <label for="path" class="form-control-label">Người dùng</label>
                                     <input type="text" id="path" name="name" placeholder="Enter path" class="form-control" value="<?php echo $rows['name']; ?>">
                                 </div>
                                  <div class="form-group">
-                                    <label for="path" class="form-control-label">Path</label>
+                                    <label for="path" class="form-control-label">Ngày</label>
                                     <input type="text" id="path" name="dated" placeholder="Enter path" class="form-control" value="<?php echo $rows['d_date_created']; ?>">
                                 </div>
                             </div>
