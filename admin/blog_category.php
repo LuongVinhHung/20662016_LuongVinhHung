@@ -139,27 +139,27 @@
                                         <form role="form" method="POST" action="">
                                             <div class="form-group">
                                                 <label for="title" class="form-control-label">Chủ đề</label>
-                                                <input type="text" id="title" name="topic" placeholder="Enter Tocpic" class="form-control">
+                                                <input type="text" id="title" name="topic" placeholder="Nhập chủ đề" class="form-control">
                                             </div>
                                             <div class="form-group">
                                                 <label for="meta_title" class="form-control-label">Tên</label>
-                                                <input type="text" id="meta_title" name="nametopic" placeholder="Enter Name Tocpic" class="form-control">
+                                                <input type="text" id="meta_title" name="nametopic" placeholder="Nhập tên" class="form-control">
                                             </div>
                                             <div class="form-group">
                                                 <label for="path" class="form-control-label">Nội dung</label>
-                                                <input type="text" id="path" name="message" placeholder="Enter Message" class="form-control">
+                                                <input type="text" id="path" name="message" placeholder="Nhập nội dung" class="form-control">
                                             </div>
                                             <div class="form-group">
                                                 <label for="path" class="form-control-label">Người dùng</label>
-                                                <input type="text" id="path" name="name" placeholder="Enter Name" class="form-control">
+                                                <input type="text" id="path" name="name" placeholder="Nhập người dùng" class="form-control">
                                             </div>
                                             <div class="form-group">
                                                 <label for="path" class="form-control-label">Ngày</label>
-                                                <input type="DaTe" id="path" name="d_date_created" placeholder="Enter DaTe" class="form-control">
+                                                <input type="DaTe" id="path" name="d_date_created" placeholder="Nhập ngày" class="form-control">
                                             </div>
                                                <div class="form-group">
                                                 <label for="path" class="form-control-label">Hình</label>
-                                                <input type="file" id="path" name="image" placeholder="Enter image" class="form-control">
+                                                <input type="file" id="path" name="image" placeholder="Chọn hình" class="form-control">
                                             </div>
 
                                             <input type="hidden" name="form_name" value="add_category">
