@@ -1,7 +1,7 @@
 <div id="colorlib-page">
 		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
 		<aside id="colorlib-aside" role="complementary" class="js-fullheight text-center">
-			<h1 id="colorlib-logo"><a href="index.php">elen<span>.</span></a></h1>
+			<h1 id="colorlib-logo"><a href="index.php">Hiragi Hung<span>.</span></a></h1>
 			<nav id="colorlib-main-menu" role="navigation">
 				<ul>
 					<li class="colorlib-active"><a href="index.php">Home</a></li>
