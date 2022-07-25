@@ -53,7 +53,7 @@
 							<h2 class="subheading">Hello I'm</h2>
 							<h1 class="mb-4">Hung Hiragi</h1>
 							<p class="mb-4"I am A Blogger with the wibu's heart, and i want to show da world about the 2D cuteness</p>
-							<p><a href="#" class="btn-custom">More About Me <span class="ion-ios-arrow-forward"></span></a></p>
+							<p><a href="about.php" class="btn-custom">More About Me <span class="ion-ios-arrow-forward"></span></a></p>
 						</div>
 					</div>
 				</div>
