@@ -32,11 +32,11 @@
 	<?php include'sidebar.php'; ?>
    <!-- END COLORLIB-ASIDE -->
 		<div id="colorlib-main">
-			<div class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url(images/bg_4.jpg);" data-stellar-background-ratio="0.5">
+			<div class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url(images/avatar-00.jpg);" data-stellar-background-ratio="0.5">
 				<div class="overlay"></div>
 				<div class="js-fullheight d-flex justify-content-center align-items-center">
 					<div class="col-md-8 text text-center">
-						<div class="img mb-4" style="background-image: url(images/author.jpg);"></div>
+						<div class="img mb-4" style="background-image: url(images/avatar-00.jpg);"></div>
 						<div class="desc">
 							<h2 class="subheading">Hello I'm</h2>
 							<h1 class="mb-4">Hung Hiragi</h1>
