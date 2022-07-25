@@ -20,7 +20,7 @@
                     <div class="account-wrap">
                         <div class="account-item clearfix js-item-menu">
                             <div class="image">
-                                <img src="images/icon/avatar-06.jpg" alt="John Doe" />
+                                <img src="images/icon/avatar-00.jpg" alt="John Doe" />
                             </div>
                             <div class="content">
                                 <a class="js-acc-btn" href="#"><?php echo $new_user->v_fullname; ?></a>
@@ -29,7 +29,7 @@
                                 <div class="info clearfix">
                                     <div class="image">
                                         <a href="#">
-                                            <img src="images/icon/avatar-06.jpg" alt="John Doe" />
+                                            <img src="images/icon/avatar-00.jpg" alt="John Doe" />
                                         </a>
                                     </div>
                                     <div class="content">
