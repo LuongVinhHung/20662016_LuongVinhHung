@@ -130,7 +130,7 @@
                         <i class="fas fa-tachometer-alt"></i>Home</a>
                 </li>
                 <li>
-                    <a href="frontend/index.php">
+                    <a href="luongvinhhung.herokuapp.com/frontend/index.php">
                       </i>Blog-Home</a>
                 </li>
                 <li>
