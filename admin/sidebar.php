@@ -129,10 +129,7 @@
                     <a class="js-arrow" href="index.php">
                         <i class="fas fa-tachometer-alt"></i>Home</a>
                 </li>
-                <li>
-                    <a href="luongvinhhung.herokuapp.com/frontend/index.php">
-                      </i>Blog-Home</a>
-                </li>
+          
                 <li>
                     <a href="blog_category.php">
                         <i class="fas fa-chart-bar"></i>Blog Categories</a>
